@@ -1,53 +1,119 @@
 ![Architecture Diagram](https://media.licdn.com/dms/image/v2/D4D16AQEbmCZJFx8liQ/profile-displaybackgroundimage-shrink_350_1400/B4DZhKRt7rH4AY-/0/1753592816445?e=1769644800&v=beta&t=wW5QOdB9D4ieyfICkrUcJwRsL4zgZqMZUldsK10-27c)
-# Deepak Chouhan
+<div align="center">
 
-### 9x Certified | Salesforce Application Architect | Salesforce Developer | 9+ years Exp.
+# 👋 Hello, I'm **Deepak Chouhan**
+
+<a href="https://www.salesforce.com/in/?ir=1" target="_blank" rel="noreferrer">
+    <img src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" alt="salesforce" width="75" height="50" />
+</a>
+
+### 9x Certified Salesforce Application Architect | Sr. Salesforce Developer 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salesforcelightning/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmdeepakchouhan3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmdeepakchouhan3@gmail.com)
 
 ---
 
-- 🔭 I'm currently working on **Salesforce**
+## 🚀 About Me
 
-- 🌱 I'm currently learning **Full Stack Development + System Design**
+Highly skilled and certified **Salesforce Application** Architect with more than 9+ years of experience in designing, developing, and supporting enterprise-level solutions on the Salesforce platform. I specialize in translating complex business needs and converting them into scalable and efficient Salesforce solutions that deliver real business value.
 
-- 💬 Ask me about **Salesforce**
+**Current Role:** Assistant Consultant at **Tata Consultancy Services**  
+**Location:** Indore, Madhya Pradesh, India  
 
-- 📫 How to reach me **gmdeepakchouhan3@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://github.com/gmdeepakchouhan3" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gmdeepakchouhan3" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/salesforcelightning/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salesforcelightning/" height="30" width="40" />
-    </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.salesforce.com/in/?ir=1" target="_blank" rel="noreferrer">
-        <img src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" alt="salesforce" width="70" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" />
-    </a>    
-    <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
-    </a>
-</p>
+## 🎯 What I Do
 
+- 🏗️ **Architect & Design** enterprise Salesforce solutions
+- 💻 **Develop** Lightning Web Component, Apex, Triggers, Flows, Visualforce Pages and Components
+- 🔌 **Integrate** Salesforce with third-party systems
+- ⚡ **Optimize** platform performance and user experience
+- 📊 **Lead** technical implementations and best practices
+- 🎓 **Mentor** teams on Salesforce development standards
 
+---
+
+## 🏆 **9x Salesforce Certifications**
+
+| **Architecture Certifications** | **Developer Certifications** | **Specialist Certifications** |
+|:---:|:---:|:---:|
+| ⭐ Application Architect | 🔧 Platform Developer II | 🤖 AI Associate |
+| ⭐ Data Architect | 🔧 Platform Developer I | 🤖 Agentforce Specialist |
+| ⭐ Sharing & Visibility Architect | 🔧 App Builder | — |
+| ⭐ Data Cloud Consultant | — | — |
+
+---
+
+## 💡 **Technical Expertise**
+
+### Core Salesforce Technologies
+<a href="https://www.salesforce.com/in/?ir=1" target="_blank" rel="noreferrer">
+    <img src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" alt="salesforce" width="50" height="40" />
+</a>
+
+- **Languages:** Apex, JavaScript, HTML/CSS, SQL, Java
+- **Salesforce:** Sales Cloud, Service Cloud, Automotive Cloud, Experience Cloud
+- **Components:** Lightning Web Components (LWC), Aura Components, Visualforce Pages
+- **Architecture:** Flows, API Integrations, Security & Access Control
+- **Tools & Frameworks:** SLDS, REST/SOAP APIs, Heroku, Git, Postman
+
+---
+
+## 👔 **Professional Experience**
+
+### 🟢 **Assistant Consultant** @ Tata Consultancy Services
+**Oct 2024 – Present** | Indore, MP, India
+
+### 🔵 **Associate Staff Engineer** @ Nagarro
+**Aug 2021 – Oct 2024** | Indore, MP, India (Remote)
+
+### 🟠 **Sr. Salesforce Developer** @ InfoBeans
+**Mar 2020 – Jul 2021** | Indore, MP, India
+
+### 🟣 **Sr. Salesforce Developer** @ Techila Global Services
+**Mar 2018 – Dec 2019** | Pune, India
+
+### 🟠 **Sr. Salesforce Developer** @ InfoBeans
+**Jul 2016 – Feb 2018** | Indore, MP, India
+
+---
+
+## 📚 **Education**
+
+| Degree | Institution | Year |
+|:---|:---|:---:|
+| **Master of Computer Applications (MCA)** | University Institute of Technology, RGPV | 2011 - 2016 |
+| **Post Graduate Diploma in Computer Application** | Devi Ahilya Vishwavidyalaya | 2008 - 2009 |
+| **Bachelor of Commerce** | Barkatullah University | 2005 - 2008 |
+
+---
+
+## 🌟 **Currently Working On**
+
+- 🔭 **Exploring:** Advanced Salesforce Architecture Patterns & System Design
+- 🌱 **Learning:** Full Stack Development + System Design + DDD principles
+- 💬 **Ask me about:** Salesforce Development & Configuration, LWC, Apex
+- 🎯 **Open to:** Global opportunities (Australia 🇦🇺, New Zealand 🇳🇿, Canada 🇨🇦, USA 🇺🇸)
+
+---
+
+## 💼 **Top Skills**
+
+- Salesforce.com Architecture & Development
+- Lightning Web Components (LWC)
+- Apex Programming & Triggers
+- Salesforce Integration (REST/SOAP APIs)
+- Platform Architecture & Design Patterns
+- Team Leadership & Mentoring
+
+---
+<div align="center">
+
+### ✨ *"A non-technical person can become a coder with the right mindset, patience, and continuous learning."* ✨
+#### ✨ *"Keep Learning Keep Growing "* ✨
+
+</div>
+
+</div>
