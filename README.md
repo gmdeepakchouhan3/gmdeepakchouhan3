@@ -95,7 +95,7 @@ Highly skilled and certified **Salesforce Application** Architect with more than
 - 🔭 **Exploring:** Advanced Salesforce Architecture Patterns & System Design
 - 🌱 **Learning:** Full Stack Development + System Design + DDD principles
 - 💬 **Ask me about:** Salesforce Development & Configuration, LWC, Apex
-- 🎯 **Open to:** Global opportunities (Australia 🇦🇺, New Zealand 🇳🇿, Canada 🇨🇦, USA 🇺🇸)
+- 🎯 **Open to:** Global opportunities
 
 ---
 
