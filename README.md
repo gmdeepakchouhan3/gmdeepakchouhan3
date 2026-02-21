@@ -1,4 +1,4 @@
-![Architecture Diagram](https://media.licdn.com/dms/image/v2/D4D16AQEbmCZJFx8liQ/profile-displaybackgroundimage-shrink_350_1400/B4DZhKRt7rH4AY-/0/1753592816445?e=1769644800&v=beta&t=wW5QOdB9D4ieyfICkrUcJwRsL4zgZqMZUldsK10-27c)
+![Salesforce](https://media.licdn.com/dms/image/v2/D4D16AQEbmCZJFx8liQ/profile-displaybackgroundimage-shrink_350_1400/B4DZhKRt7rH4AY-/0/1753592816445?e=1773273600&v=beta&t=Sy-9kRVrWOUfbxUxWrvqEAFBtnhiIMzeNSGJrbnuSSM)
 <div align="center">
 
 # 👋 Hello, I'm **Deepak Chouhan**
